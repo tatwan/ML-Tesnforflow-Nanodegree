@@ -6,7 +6,9 @@
 
 
 
-# Project 1 Finding Donors
+# Project 1: Finding Donors
+
+`RandomForest`, `AdaBoost`, `Gradient Boosting`, `Support Vector Machine`, `Gaussian Naive Bayes`
 
 ## Description
 
@@ -25,6 +27,8 @@ This project uses the following software and Python libraries:
 
 
 # Project 2 Image Classifier
+
+`Data Preprocessing`, `Deep Learning`, `Neural Networks`, `Tensforflow`, `Keras`, `Model Deployment`
 
 ## Part 1: Developing an Image Classifier with Deep Learning
 
@@ -90,7 +94,9 @@ $ python predict.py ./test_images/orchid.jpg my_model.h5 --category_names label_
 
 
 
-# Project 3 Identify Customer Segments
+# Project 3: Identify Customer Segments
+
+`Data preprocessing`, `Feature Selection`, `Feature Engineering`, `Principle Component Analysis (PCA)`, `KMeans Clustering`
 
 In this project, our Bertelsmann partners AZ Direct and Arvato Financial Solutions have provided two datasets one with demographic information about the people of Germany, and one with that same information for customers of a mail-order sales company. You’ll look at relationships between demographics features, organize the population into clusters, and see how prevalent customers are in each of the segments obtained.
 
